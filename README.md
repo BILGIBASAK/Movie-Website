@@ -23,7 +23,3 @@ This project is a movie website developed using HTML, CSS and JavaScript. This s
 <h2>Screenshot</h2>
 
 ![](Movie Website.gif)# Movie-Website
-# Movie-Website
-# Movie-Website
-# Movie-Website
-# Movie-Website
